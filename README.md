@@ -39,6 +39,6 @@ Home page displays options to Book Flight, Customer Login and Admin Login.
 <b>Frontend</b> - JSP, HTML, CSS, Bootstrap4 <br>
 <b>Backend</b> - JAVA Servlets <br>
 <b>Database</b> - MySQL <br>
-<b>Application Server</b>  - Tomcat 9.0  <br>
+<b>Application Server</b>  - Tomcat 10.0  <br>
 
 
